@@ -4,7 +4,8 @@ title: About
 image: '/images/15.jpg'
 ---
 
-Hi, my name is James Clayton. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf twee thundercats ennui.
+안녕하세요 저는 신입 개발자를 준비하고 있는 SEONGJIN LEE 입니다.
+제가 공부한
 
 ![Loneliness]({{site.baseurl}}/images/30.jpg)
 *Photo by [Grace Madeline](https://unsplash.com/@grxcemadeline) on Unsplash*
