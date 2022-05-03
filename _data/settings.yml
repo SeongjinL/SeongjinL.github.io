@@ -1,24 +1,24 @@
 #-------------------------------
 # Site Settings
 
-title: Avenco
+title: SeongLee Code
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Avenco – Creative Portfolio Theme for Jekyll
+description: SeongLee – Portfolio Project-Code
 
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: '메인'
       url: '/'
-    - title: 'Projects'
+    - title: '프로젝트'
       url: '/projects/'
-    - title: 'Blog'
+    - title: '개인공부'
       url: '/blog/'
-    - title: 'Pages'
+    - title: '이력서 및 자소서'
       submenu:
       - url: '/about'
-        title: 'About'
+        title: '이력서'
       - url: '/elements'
-        title: 'Elements'
+        title: '자기소개서'
 
 # Call to action button
 cta__button__text: Get in touch
@@ -33,7 +33,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Seongjin Lee
   title: Hello I’m Seongjin Lee
-  bio: Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere.
+  bio: 안녕하센가요
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
   button__text: See my works
@@ -51,12 +51,6 @@ projects__settings:
 # Testimonials Section
 
 testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
-
-testimonial-items:
-  - name: "Zaire Baptista"
-    image: "/images/client-1.jpg"
-    designation : "Traveler"
-    content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
 #-------------------------------
 # Blog Section
@@ -76,6 +70,15 @@ contact__settings:
 
 # NOTE
 # Avenco comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp__settings:
+  mailchimp__title: <span class="text-span">Join</span> my mailing list # Add your title
+  mailchimp__text: " 'Get inspiration, updates and', 'cool stuff about design!' " # Add descriptions to the form by wrapping the text in single quotes. If you want to use more than one sentence, be sure to separate them with a comma.
+  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+  mailchimp__button__text: Subscribe # Add your button text
 
 
 #-------------------------------
