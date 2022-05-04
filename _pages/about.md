@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 이력서
 image: '/images/15.jpg'
 ---
 
