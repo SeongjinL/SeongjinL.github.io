@@ -33,7 +33,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Seongjin Lee
   title: Hello I’m Seongjin Lee
-  bio: 안녕하센가요
+  bio: 안녕하신가여
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
   button__text: See my works
@@ -43,22 +43,22 @@ author:
 # Projects Settings
 
 projects__settings:
-  projects__title: Latest <span class="text-span">Works</span> # Add a 'text-span' class to highlight text.
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__title: Latest <span class="text-span">Project</span> # Add a 'text-span' class to highlight text.
+  projects__description: 제가 만든 프로젝트를 구경하고 싶으시다면 VIEW ALL을 눌러주세요 !
 
-
-#-------------------------------
-# Testimonials Section
-
-testimonial__title: My Happy <span class="text-span">Clients</span> # Add a 'text-span' class to highlight text.
 
 #-------------------------------
 # Blog Section
 
 blog__settings:
-  blog__title: Recent <span class="text-span">Blog</span> Posts # Add a 'text-span' class to highlight text.
+  blog__title: Study <span class="text-span">Alone</span> Posts # Add a 'text-span' class to highlight text.
   blog__description:
 
+
+#-------------------------------
+# Testimonials Section
+
+testimonial__title: Someone's <span class="text-span">Material</span> # Add a 'text-span' class to highlight text.
 
 #-------------------------------
 # Contact Settings
